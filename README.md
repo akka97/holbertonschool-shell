@@ -1,1 +1,2 @@
-Linux shell
+# Holbertonschool Shell 
+## What is Shell? 
