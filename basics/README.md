@@ -24,3 +24,6 @@
 * Write a script that changes the working directory to the previous one. [Back to the future](https://github.com/akka97/holbertonschool-shell/blob/main/basics/10-back)
 
 * Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format. [Lists](https://github.com/akka97/holbertonschool-shell/blob/main/basics/11-lists)
+
+* Write a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script. [File type](https://github.com/akka97/holbertonschool-shell/blob/main/basics/12-file_type)
+
