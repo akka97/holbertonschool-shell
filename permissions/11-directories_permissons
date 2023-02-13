@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 755 permissionis/
+chmod -R 755 permissions
