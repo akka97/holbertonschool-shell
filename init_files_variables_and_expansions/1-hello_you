@@ -1,2 +1,2 @@
 #!/bin/bash
-Echo hello user $(whoami)
+echo alias hello user='akili'
