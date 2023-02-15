@@ -1,2 +1,5 @@
 #!/bin/bash
-export BEST=SCHOOL	
+create_local_var() {
+  local my_var="Hello, World!"
+  echo "The value of my_var is: $my_var"
+}  
