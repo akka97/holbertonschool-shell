@@ -1,2 +1,2 @@
 #!/bin/bash
-alias mv ls rm  
+alias rename ls rm *  
